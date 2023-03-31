@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374dfa56-3b70-498c-9ad0-ae5c14e5a21f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MessageView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MessageModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MessageModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="374dfa56-3b70-498c-9ad0-ae5c14e5a21f" name="Changes" comment="MessageView is Done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +59,21 @@
       <option name="presentableId" value="Default" />
       <updated>1679941323137</updated>
     </task>
+    <task id="LOCAL-00001" summary="MessageView is Done">
+      <created>1680287970374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680287970374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MessageView is Done">
+      <created>1680288000427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680288000427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MessageView is Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="MessageView is Done" />
   </component>
 </project>
